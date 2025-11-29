@@ -18,6 +18,4 @@ dist/
 # VS Code
 .vscode/
 
-# Model files (may be large)
-*.pt
-*.pth
+
