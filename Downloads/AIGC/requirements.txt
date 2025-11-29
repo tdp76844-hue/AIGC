@@ -1,0 +1,5 @@
+# Example minimal requirements file
+# Replace/add actual packages used in your project
+numpy
+pytest
+opencv-python
